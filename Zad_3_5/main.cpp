@@ -11,6 +11,7 @@ int main()
     int rest=0;
 
     char array[n];
+    cout<<"Wpisz " << n<<" znakow:"<<endl;
 
     for (int i=0; i<n; i++)
         cin>>array[i];
